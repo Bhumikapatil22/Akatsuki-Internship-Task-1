@@ -4,7 +4,7 @@ const Data = [
       title: "Building microservices with Dropwizard, MongoDB & Docker",
       description:
         "This NoSQL database oriented to documents (by documents like JSON) combines some of the features from relational databases, easy to use and the multi-platform is the best option for scale up and have fault tolerance, load balancing, map reduce, etc.",
-      image: "./src/assets/images/author.png",
+      image: "./assets/images/author.png",
       blogImage: "./src/assets/images/blog-1.png",
       name: "Julia Walker",
       date: "Jan 17, 2022",
